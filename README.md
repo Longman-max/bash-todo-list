@@ -54,4 +54,4 @@ done
 ```
 
 ## License
-MIT License © 2025 `<your-username>`
+MIT License © 2025 `Longman-max`
