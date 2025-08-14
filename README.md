@@ -54,4 +54,4 @@ done
 ```
 
 ## License
-MIT License © 2025 `Longman-max`
+MIT License © 2025
